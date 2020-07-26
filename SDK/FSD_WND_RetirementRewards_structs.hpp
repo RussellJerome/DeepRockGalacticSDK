@@ -7,8 +7,8 @@
 #endif
 
 #include "FSD_Basic.hpp"
-#include "FSD_WND_ClaimableRewards_classes.hpp"
 #include "FSD_FSD_classes.hpp"
+#include "FSD_WND_ClaimableRewards_classes.hpp"
 
 namespace SDK
 {

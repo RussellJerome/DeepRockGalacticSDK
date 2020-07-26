@@ -8,8 +8,8 @@
 
 #include "FSD_Basic.hpp"
 #include "FSD_FSD_classes.hpp"
-#include "FSD_Engine_classes.hpp"
 #include "FSD_FormatWeaponStatType_classes.hpp"
+#include "FSD_Engine_classes.hpp"
 #include "FSD_CoreUObject_classes.hpp"
 
 namespace SDK

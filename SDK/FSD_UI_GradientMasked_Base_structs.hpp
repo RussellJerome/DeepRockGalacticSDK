@@ -8,8 +8,8 @@
 
 #include "FSD_Basic.hpp"
 #include "FSD_UMG_classes.hpp"
-#include "FSD_Engine_classes.hpp"
 #include "FSD_ENUM_MaskedGradientTypes_classes.hpp"
+#include "FSD_Engine_classes.hpp"
 
 namespace SDK
 {

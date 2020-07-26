@@ -75,6 +75,11 @@ public:
 		return ptr;
 	}
 
+	inline void ProcessEvent(class UFunction* function, void* parms)
+	{
+		return GetVFunction<void(*)(UObject*, class UFunction*, void*)>(this, 64)(this, function, parms);
+	}
+
 
 	void ExecuteUbergraph(int* EntryPoint);
 };

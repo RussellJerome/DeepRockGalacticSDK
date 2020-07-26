@@ -7,9 +7,9 @@
 #endif
 
 #include "FSD_Basic.hpp"
+#include "FSD_Objective_BASE_classes.hpp"
 #include "FSD_SlateCore_classes.hpp"
 #include "FSD_Engine_classes.hpp"
-#include "FSD_Objective_BASE_classes.hpp"
 
 namespace SDK
 {

@@ -7,10 +7,10 @@
 #endif
 
 #include "FSD_Basic.hpp"
-#include "FSD_M_IconShapes_classes.hpp"
 #include "FSD_UMG_classes.hpp"
 #include "FSD_Engine_classes.hpp"
 #include "FSD_CoreUObject_classes.hpp"
+#include "FSD_M_IconShapes_classes.hpp"
 
 namespace SDK
 {

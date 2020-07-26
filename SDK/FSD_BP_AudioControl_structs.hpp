@@ -8,8 +8,8 @@
 
 #include "FSD_Basic.hpp"
 #include "FSD_Engine_classes.hpp"
-#include "FSD_AudioMixer_classes.hpp"
 #include "FSD_CompressorData_classes.hpp"
+#include "FSD_AudioMixer_classes.hpp"
 
 namespace SDK
 {

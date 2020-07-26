@@ -7,8 +7,8 @@
 #endif
 
 #include "FSD_Basic.hpp"
-#include "FSD_Engine_classes.hpp"
 #include "FSD_ITM_ChaCus_ItemSlot_Base_classes.hpp"
+#include "FSD_Engine_classes.hpp"
 #include "FSD_FSD_classes.hpp"
 
 namespace SDK

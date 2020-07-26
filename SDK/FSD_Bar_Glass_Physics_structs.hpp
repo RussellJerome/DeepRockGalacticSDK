@@ -7,8 +7,8 @@
 #endif
 
 #include "FSD_Basic.hpp"
-#include "FSD_Bar_Glass_Physics_Base_classes.hpp"
 #include "FSD_Engine_classes.hpp"
+#include "FSD_Bar_Glass_Physics_Base_classes.hpp"
 #include "FSD_CoreUObject_classes.hpp"
 
 namespace SDK

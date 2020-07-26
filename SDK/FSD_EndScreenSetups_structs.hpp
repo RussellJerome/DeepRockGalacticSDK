@@ -9,8 +9,8 @@
 #include "FSD_Basic.hpp"
 #include "FSD_Engine_classes.hpp"
 #include "FSD_CoreUObject_classes.hpp"
-#include "FSD_EndScreenMove_classes.hpp"
 #include "FSD_EndScreenMoveSet_classes.hpp"
+#include "FSD_EndScreenMove_classes.hpp"
 
 namespace SDK
 {

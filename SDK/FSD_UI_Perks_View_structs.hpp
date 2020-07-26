@@ -7,9 +7,9 @@
 #endif
 
 #include "FSD_Basic.hpp"
+#include "FSD_UI_KPI_Tab_classes.hpp"
 #include "FSD_SlateCore_classes.hpp"
 #include "FSD_Engine_classes.hpp"
-#include "FSD_UI_KPI_Tab_classes.hpp"
 #include "FSD_UMG_classes.hpp"
 #include "FSD_FSD_classes.hpp"
 #include "FSD_CoreUObject_classes.hpp"

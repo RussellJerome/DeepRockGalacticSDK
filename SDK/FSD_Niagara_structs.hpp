@@ -8,10 +8,10 @@
 
 #include "FSD_Basic.hpp"
 #include "FSD_MovieScene_classes.hpp"
-#include "FSD_NiagaraShader_classes.hpp"
 #include "FSD_Engine_classes.hpp"
 #include "FSD_NiagaraCore_classes.hpp"
 #include "FSD_CoreUObject_classes.hpp"
+#include "FSD_NiagaraShader_classes.hpp"
 
 namespace SDK
 {
